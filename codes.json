@@ -1,1 +1,10 @@
-[]
+
+[
+  {
+    "code": "VRAI_CODE_ICI",
+    "offer": "Réduction et conditions exactes",
+    "official_source_url": "URL_OFFICIELLE_ICI",
+    "officially_confirmed": false,
+    "expires_at_utc": "2026-12-31T23:00:00Z"
+  }
+]
